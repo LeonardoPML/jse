@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"Regen Toggle"
+	{
+		"#format"		"{1:t}"
+		"pt"			"Regeneração de vida e munição {1}."
+	}
+
+	"Bazooka Projectile Spread"
+	{
+		"pt"			"Propagação de projéteis de bazuca"
+	}
+}
